@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4",
+    "jade": "^1.11.0",
+    "twitter-screen-scrape": "^1.0.2"
+  }
+}
